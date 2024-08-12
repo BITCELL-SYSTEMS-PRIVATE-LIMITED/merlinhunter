@@ -48,10 +48,10 @@ const navlinks: TNavlink[] = [
       className: "",
       icon: null,
    },
-   {
-      title: "New Case",
-      href: "/new-case",
-      className: "",
-      icon: null,
-   },
+   // {
+   //    title: "New Case",
+   //    href: "/new-case",
+   //    className: "",
+   //    icon: null,
+   // },
 ];
